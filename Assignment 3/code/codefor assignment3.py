@@ -1,5 +1,5 @@
 #CS 101 Lab
-#Program 2
+#Program 3
 #John Chirpich
 #jwcgnq@umkc.edu
 three = 0
